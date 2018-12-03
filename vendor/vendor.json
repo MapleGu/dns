@@ -1,0 +1,29 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "21o7KnBPHUon7E8c/kHOhW7wRL8=",
+			"path": "github.com/jpfuentes2/go-env",
+			"revision": "8e0a68de05f21bcefcd581c6b934a1d1e4390fa1",
+			"revisionTime": "2015-03-16T00:17:28Z"
+		},
+		{
+			"checksumSHA1": "OC9kwsEQi/HBAVN28f1EUwqLqw0=",
+			"path": "github.com/jpfuentes2/go-env/autoload",
+			"revision": "8e0a68de05f21bcefcd581c6b934a1d1e4390fa1",
+			"revisionTime": "2015-03-16T00:17:28Z"
+		},
+		{
+			"checksumSHA1": "DTy0iJ2w5C+FDsN9EnzfhNmvS+o=",
+			"path": "github.com/pkg/errors",
+			"revision": "059132a15dd08d6704c67711dae0cf35ab991756",
+			"revisionTime": "2018-10-23T23:59:46Z"
+		},
+		{
+			"path": "golang.org/x/net/dns/dnsmessage",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/MapleGu/dns"
+}
